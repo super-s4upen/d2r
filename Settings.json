@@ -69,7 +69,7 @@
     "Chat Background": 0,
     "Display Active Skill Bindings": 1,
     "Persistent Ignore": 1,
-    "Quick Cast Enabled": 0,
+    "Quick Cast Enabled": 1,
     "Master Volume": 0,
     "Music Volume": 16,
     "Options Music": 1,
@@ -107,7 +107,7 @@
     "Lobby Wide Item Drop Enabled": 1,
     "Aux Battle.net": "216.148.246.35",
     "First Time": 1,
-    "User Last Online": 1761416886395959600,
+    "User Last Online": 1761482411332234200,
     "Tutorial": 3,
     "Always Run": 1,
     "Help Menu": 1
