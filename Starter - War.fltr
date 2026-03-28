@@ -9,9 +9,9 @@
             "equipmentRarity": [
                 "rare",
                 "lowQuality",
-                "set",
-                "unique",
                 "magic",
+                "unique",
+                "set",
                 "hiQuality",
                 "normal"
             ],
@@ -22,8 +22,8 @@
             ],
             "equipmentCategory": [
                 "acce",
-                "weap",
-                "armo"
+                "armo",
+                "weap"
             ],
             "itemCategory": [
                 "misc"
@@ -107,9 +107,9 @@
                 "sorce",
                 "amazo",
                 "palad",
-                "necro",
-                "druid",
                 "barbh",
+                "druid",
+                "necro",
                 "assas"
             ]
         },
@@ -130,6 +130,12 @@
             "equipmentRarity": [
                 "lowQuality"
             ]
+        },
+        {
+            "name": "Rule 12",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false
         }
     ]
 }
