@@ -9,9 +9,9 @@
             "equipmentRarity": [
                 "rare",
                 "lowQuality",
-                "magic",
-                "unique",
                 "set",
+                "unique",
+                "magic",
                 "hiQuality",
                 "normal"
             ],
@@ -22,8 +22,8 @@
             ],
             "equipmentCategory": [
                 "acce",
-                "armo",
-                "weap"
+                "weap",
+                "armo"
             ],
             "itemCategory": [
                 "misc"
@@ -107,9 +107,9 @@
                 "sorce",
                 "amazo",
                 "palad",
-                "druid",
-                "necro",
                 "warlo",
+                "necro",
+                "druid",
                 "assas"
             ]
         },
